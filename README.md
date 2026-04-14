@@ -26,7 +26,10 @@ A simple live code editor that allows users to write HTML, CSS, and JavaScript a
 ---
 
 ## 📸 Screenshots
-(Add screenshot here)
+![Code Output](assets/run_previewt.png)
+![Code Output](assets/code_preview.png)
+![Code Output](assets/code_with_op.png)
+![Code Output](assets/fullscreen_output.png)
 
 ---
 
